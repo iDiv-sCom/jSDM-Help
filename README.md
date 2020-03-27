@@ -5,10 +5,10 @@ The purpose of this repo is to connect the statisticians assembled in sCom with 
 Typical questions could be
 
 *  I have a dataset of size X, with this type of predictors, etc., which software should I be using? How to run the analyses. 
-*  Here are my results [Picture] - I interpret this as saying that ... do you agree?
+*  Here are my results &Picture& - I interpret this as saying that ... do you agree?
 
 # How to ask a question? 
 
-Go to https://github.com/iDiv-sCom/jSDM-Help/issues, create a new issue and ask your question
+Create a new issue [here](https://github.com/iDiv-sCom/jSDM-Help/issues) and ask your question
 
 
