@@ -7,7 +7,7 @@ Typical questions could be
 *  I have a dataset of size X, with this type of predictors, etc., which software should I be using? How to run the analyses. 
 *  Here are my results &Picture& - I interpret this as saying that ... do you agree?
 
-# What can jSDMs do with your data
+# What can jSDMs infer from your community data?
 
 jSDMs can explain variation in community composition by contributions of the environment, space and biotic interactions, possibly aided / coupled with species-specific information, such as traits of phylogenies. A typical analysis could supply you with 
 
